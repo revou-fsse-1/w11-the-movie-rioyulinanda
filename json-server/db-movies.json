@@ -29,23 +29,27 @@
       "password": "cihuy123",
       "email": "cihuy123@gmail.com",
       "id": 5
+    },
+    {
+      "username": "Admin",
+      "email": "administrator@gmail.com",
+      "password": "Admin123",
+      "id": 6
     }
   ],
   "movies": [
     {
       "id": 1,
-      "title": "Avatar",
-      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/16625437697033_405x594.jpg",
-      "synopsis": "Avatar akan kembali ke layar lebar.Seorang Marinir lumpuh dikirim ke bulan Pandora untuk menjalani misi khusus namun, ia justru dilema antara mengikuti perintah atau melindungi dunia baru yang pelan-pelan ia panggil rumah",
+      "title": "The Shawshank Redemption",
+      "image": "https://upload.wikimedia.org/wikipedia/id/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "year": 1994,
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
       "genre": [
-        "Action",
-        "Adventure",
-        "Fantasy"
+        "Drama"
       ],
-      "production": "20th Century Studios",
-      "trailer": "https://www.youtube.com/embed/NZrX_ES93JA",
-      "rating": 8.5,
-      "isWatch": false,
+      "trailer": "https://www.youtube.com/embed/PLl99DlL6b4",
+      "rating": 9.3,
+      "isWatched": false,
       "isPrevious": false
     },
     {
@@ -80,16 +84,18 @@
     },
     {
       "id": 4,
-      "title": "The Shawshank Redemption",
-      "image": "https://th.bing.com/th/id/OIP.w0SK_ZRdaWbnC2goV4kbYAHaLH?w=115&h=180&c=7&r=0&o=5&pid=1.7",
-      "year": 1994,
-      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "title": "Avatar",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/16625437697033_405x594.jpg",
+      "synopsis": "Avatar akan kembali ke layar lebar. Seorang Marinir lumpuh dikirim ke bulan Pandora untuk menjalani misi khusus namun, ia justru dilema antara mengikuti perintah atau melindungi dunia baru yang pelan-pelan ia panggil rumah",
       "genre": [
-        "Drama"
+        "Action",
+        "Adventure",
+        "Fantasy"
       ],
-      "trailer": "",
-      "rating": 9.3,
-      "isWatched": false,
+      "production": "20th Century Studios",
+      "trailer": "https://www.youtube.com/embed/NZrX_ES93JA",
+      "rating": 8.5,
+      "isWatch": false,
       "isPrevious": false
     },
     {
@@ -503,6 +509,28 @@
       "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
       "rating": 9,
       "isWatched": false
+    },
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "image": "https://upload.wikimedia.org/wikipedia/id/8/81/ShawshankRedemptionMoviePoster.jpg",
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama",
+      "production": "undefined",
+      "trailer": "https://www.youtube.com/embed/PLl99DlL6b4",
+      "rating": "9.3",
+      "year": "1994"
+    },
+    {
+      "id": "9",
+      "title": "Avengers: Endgame",
+      "image": "https://th.bing.com/th/id/OIP.KNfIqaD92jvecpbxNWWQ4wHaJ4?w=139&h=185&c=7&r=0&o=5&pid=1.7",
+      "synopsis": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+      "genre": "Action,Adventure,superhero",
+      "production": "undefined",
+      "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "rating": "undefined",
+      "year": "2019"
     }
   ]
 }
