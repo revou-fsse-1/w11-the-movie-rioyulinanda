@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/ZWjvzVL5)
+# Week 11 Individual Project
+
+This week are need students to be able to make a Website for Movie Watchlist, using the JSON Server. The database has been provided, and all students need to fetch the data from the database. And this project is for trying to read the Figma file, then implement it in a real website.
+
+# Links
+
+Netlify: [rioyulinanda](https://movie-watchlist1.netlify.app/)
