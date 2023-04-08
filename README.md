@@ -4,4 +4,4 @@ This week are need students to be able to make a Website for Movie Watchlist, us
 
 # Links
 
-Netlify: [rioyulinanda](https://movie-watchlist1.netlify.app/)
+Netlify: [Movie Watch List](https://movie-watchlist1.netlify.app/)
